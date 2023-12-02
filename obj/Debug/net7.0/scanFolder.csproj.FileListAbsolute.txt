@@ -1,0 +1,15 @@
+D:\scanFolder\bin\Debug\net7.0\scanFolder.exe
+D:\scanFolder\bin\Debug\net7.0\scanFolder.deps.json
+D:\scanFolder\bin\Debug\net7.0\scanFolder.runtimeconfig.json
+D:\scanFolder\bin\Debug\net7.0\scanFolder.dll
+D:\scanFolder\bin\Debug\net7.0\scanFolder.pdb
+D:\scanFolder\obj\Debug\net7.0\scanFolder.csproj.AssemblyReference.cache
+D:\scanFolder\obj\Debug\net7.0\scanFolder.GeneratedMSBuildEditorConfig.editorconfig
+D:\scanFolder\obj\Debug\net7.0\scanFolder.AssemblyInfoInputs.cache
+D:\scanFolder\obj\Debug\net7.0\scanFolder.AssemblyInfo.cs
+D:\scanFolder\obj\Debug\net7.0\scanFolder.csproj.CoreCompileInputs.cache
+D:\scanFolder\obj\Debug\net7.0\scanFolder.dll
+D:\scanFolder\obj\Debug\net7.0\refint\scanFolder.dll
+D:\scanFolder\obj\Debug\net7.0\scanFolder.pdb
+D:\scanFolder\obj\Debug\net7.0\scanFolder.genruntimeconfig.cache
+D:\scanFolder\obj\Debug\net7.0\ref\scanFolder.dll
